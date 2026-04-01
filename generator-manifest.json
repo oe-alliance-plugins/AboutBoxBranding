@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Display box branding info",
+  "description_recipe": "View Boxbranding data from the GUI",
+  "history_source_dir": "AboutBoxBranding",
+  "internal_package_name": "enigma2-plugin-systemplugins-aboutboxbranding",
+  "module_dir_name": "AboutBoxBranding",
+  "output_subdir": "AboutBoxBranding",
+  "package_name": "enigma2-plugin-systemplugins-aboutboxbranding",
+  "plugin_src_rel": "AboutBoxBranding",
+  "python_package": "AboutBoxBranding",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "AboutBoxBranding",
+  "rrecommends": "",
+  "rreplaces": ""
+}
